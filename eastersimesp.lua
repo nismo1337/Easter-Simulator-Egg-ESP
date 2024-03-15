@@ -1,3 +1,5 @@
+-- code is like super bad but it works 
+
 eggBlocks = {}
 
 module_manager.register("EggESP", {
